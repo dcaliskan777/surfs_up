@@ -19,14 +19,15 @@ The summary statistics of temperature of the Oaha was found out by the following
 
 > from sqlalchemy import extract
 > 
-> june_temp = session.query(Measurement.tobs).filter(extract('month',Measurement.date)==6).all() >                       
+> june_temp = session.query(Measurement.tobs).filter(extract('month',Measurement.date)==6).all()
+>                        
 > june_temp_df = pd.DataFrame(june_temp, columns=['June Temps'])
 > 
 > june_temp_df.describe()
 
 The output is the following:
 
-![](resourses/june_temps.png)
+![](resources/june_temps.png)
 
 >## 2. Analysis of Temperature in December
 

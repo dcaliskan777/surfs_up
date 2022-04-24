@@ -1,8 +1,9 @@
 # surfs_up
 
 ## Overview of Analysis
-In this study, information which is given in ![hawaii.sqlite](hawaii.sqlite), about temperature trends was analyzed before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
-### Purpose
+In this study, information which is given in ![hawaii.sqlite](hawaii.sqlite), about temperature trends was analyzed in order to  determine if the surf and ice cream shop business is sustainable year-round.
+
+The analyse hase done by using the python codes ![SurfsUp_Challenge### Purpose](SurfsUp_Challenge.ipynb).
 
 
 ## Analysis of Results

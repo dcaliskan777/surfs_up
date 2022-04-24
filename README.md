@@ -3,13 +3,13 @@
 ## Overview of Analysis
 In this study, information which is given in ![hawaii.sqlite](hawaii.sqlite), about temperature trends was analyzed in order to  determine if the surf and ice cream shop business is sustainable year-round.
 
-The analyse hase done by using the python codes ![SurfsUp_Challenge](SurfsUp_Challenge.ipynb).
+The analyse has done by using the python codes ![SurfsUp_Challenge](SurfsUp_Challenge.ipynb).
 
 In the report the results of  temperature data for the months of June and December in Oahu were analysed. In addition to this the summary statistics of precipitation data for the months June and December are displayed and discussed to give more detailed analysis for the weahther condition year-round.
 
 ### Purpose
 
-The Porpose of the work is to investigate the weather condition of Oaha to determine if the surfa and ice cream shop business is sustainable year-round.
+The Purpose of the work is to investigate the weather condition of Oaha to determine if the surf and ice cream shop business is sustainable year-round.
 
 ## Analysis of Results
 
@@ -57,9 +57,9 @@ Let's look at the results together in the same table.
 
 ![](resources/june_december.png)
 
-If we compare the summary statistics of temperatures of in two months we can see that there is no big difference between these two statisticas. From which we can understand that the surf and ice cream shop business is sustainable year-round.
+If we compare the summary statistics of temperatures in two months we can see that there is no big difference between these two statisticas. From which we can understand that the surf and ice cream shop business is sustainable year-round.
 
-We can support this idea visually by the following the Multy Box Plot.
+We can support this idea visually by the following  Multy Box Plot.
 
 ![](resources/bax_plot_temp.png)
 
@@ -71,7 +71,7 @@ We can support this idea by making query about precipitation in both June and De
 
 ![](resources/june_dec_prcp.png)
 
-According to table, the averages precipitation in June and December are 0.136 and 0.216 respectively; similarly the maximum precipitation in June and December are 4.43 and 6.42 respectively. There is no big difference between them. On 75 % of June days the precipitation is smaller than 0.12 and on 75 % of December days the precipitation is smaller than 0.15. From which we can drive that that the surf and ice cream shop business is sustainable year-round.
+According to table, the averages precipitation in June and December are 0.136 and 0.216 respectively; similarly the maximum precipitation in June and December are 4.43 and 6.42 respectively. There is no big difference between them. On 75 % of June days the precipitation is smaller than 0.12 and on 75 % of December days the precipitation is smaller than 0.15. From which we can conclude that the surf and ice cream shop business is sustainable year-round.
 
 
 
